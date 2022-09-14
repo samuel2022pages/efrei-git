@@ -1,0 +1,1 @@
+Ceci est une première phrase dans mon fichier texte.txt.
