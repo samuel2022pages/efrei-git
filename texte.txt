@@ -2,6 +2,6 @@ Ceci est une première phrase dans mon fichier texte.txt.
 
 Ceci est la deuxième phrase dans mon ficher texte.txt.
 
-Ceci est la troisième phrase dans mon fichier texte.txt
+Ceci est la troisième phrase dans mon fichier texte.txt.
 
-Ceci est a coté
+Ceci est la troisième phrase dans mon ficher texte.txt
