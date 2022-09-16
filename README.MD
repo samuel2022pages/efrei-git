@@ -57,3 +57,8 @@ Permet de supprimer le tag précédemment ajouté sur un commit
 git show
 ```
 Permet d'avoir des informations plus précises sur le dernier commit enregistré
+
+```
+git push -u origin main
+```
+Permet de push et mettre par defaut main en push
